@@ -1,0 +1,237 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Tabbed Navigation</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav" style="width: 746px; height: 59px">
+        <li><a href="index.html" class="icon home"><span>Home</span></a></li>
+        <li class="dropdown">
+          <a href="index.html">Писатели #1</a>
+          <ul>
+            <li><a href="Василий Перов.html"> Василий Перов </a></li>
+            <li><a href="Алексей Саврасов.html">Алексей Саврасов  </a></li>
+            <li><a href="Иван Шишкин.html">Иван Шишкин</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="index.html">Писатели #2</a>
+          <ul class="large">
+            <li><a href="Николай Ге.html"> Николай Ге</a></li>
+            <li><a href="Василий Поленов.html"> Василий Поленов  </a></li>
+            <li><a href="Аполлинарий Васнецов.html"> Аполлинарий Васнецов</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="index.html">Писатели #3</a>
+           <ul class="large">
+            <li><a href="Архип Куинджи.html">Архип Куинджи</a></li>
+            <li><a href="Исаак Левитан.html">Исаак Левитан</a></li>
+            <li><a href="Константин Маковский.html"> Константин Маковский</a></li>
+            </ul>
+                  <li class="dropdown">
+          <a href="index.html">Писатели #4</a>
+          <ul>
+            <li><a href="Виктор Васнецов.html"> Виктор Васнецов</a></li>
+            <li><a href="Василий Суриков.html"> Василий Суриков</a></li>
+            <li><a href="Илья Репин.html"> Илья Репин</a></li>
+          </ul>
+        </li>
+                          <li class="dropdown">
+          <a href="index.html">Писатели #5</a>
+          <ul>
+                  <li><a href="Иван Крамской.html">Иван Крамской</a></li>
+            <li><a href="Валентин Серов.html">Валентин Серов</a></li>
+          </ul>
+		<p>&nbsp;</p>
+    </nav>
+  </header>
+<div class="entity-heading entity-heading__simple" style="width: 800px; max-width: 100%; padding: 44px 0px 0px; color: rgb(60, 60, 60); font-family: PTSans, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+	<h1 class="entity-heading_title" style="font-size: 36px; margin: 5px 0px; font-weight: 700; line-height: 1.15; font-family: PTSans, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; color: rgb(60, 60, 60);">
+	Бунтари от живописи</h1>
+</div>
+<div class="styled-content" style="position: relative; clear: both; padding: 35px 0px 40px; font-weight: 400; font-family: &quot;Noto Serif&quot;, &quot;Times New Roman&quot;, Times, Baskerville, Georgia, serif; color: rgb(60, 60, 60); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+	<div class="styled-content_body" style="transition: all 0.3s;">
+		<p style="margin: 0px 0px 20px; line-height: 1.88;">
+		<em style="font-style: italic;">
+		<span class="initial-letter" style="float: left; margin: 0.05em 10px 0px 0px; font-weight: 700; font-size: 3.4em; line-height: 1; font-family: &quot;Noto Serif&quot;, &quot;Times New Roman&quot;, Times, Baskerville, Georgia, serif; color: rgb(245, 57, 58); text-transform: uppercase; font-style: normal;">
+		О</span>т легенд и мифов — к повседневным образам, будь то крестьяне, 
+		среднерусский пейзаж или выдающиеся люди страны. Реализм против 
+		академизма. Вдохновленные идеями народничества и уставшие от рамок 
+		Академии художеств, живописцы в конце ХIХ века объединились в творческое 
+		сообщество и поехали со своими картинами по стране. Вспомним историю 
+		художников-передвижников вместе с Натальей Летниковой</em>.<span class="clearfix"></span></p>
+		<p style="margin: 20px 0px; line-height: 1.88;">
+		<strong style="font-weight: 700;">Живописный бунт</strong>. Четырнадцать 
+		лучших выпускников<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/materials/155427/akademiya-hudozhestv-retrospektivniy-vzglyad" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Императорской 
+		Академии художеств</a>предпочли Большой золотой медали свободу 
+		творчества. Отказались писать картину на германо-скандинавский сюжет про 
+		пир в Валгалле, посчитав предложенную тему слишком далекой от 
+		реальности. Бунтари попросили свободную тему. Получив отказ, покинули 
+		аудиторию, чем сорвали конкурс к 100-летию Академии. Художники направили 
+		прошение выдать дипломы, соответствующие уже полученным медалям.</p>
+		<div class="content-gallery js-gallery" style="clear: both; margin: 30px 0px;">
+			<div class="content-gallery_inner" style="display: flex; justify-content: center; margin: 0px -85px;">
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 1.75513 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157399" href="620009.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 1" class="content-gallery_img js-gallery-img" src="620009.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 1.61249 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157399" href="620011.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 1" class="content-gallery_img js-gallery-img" src="620011.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 1.8229 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157399" href="620012.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 1" class="content-gallery_img js-gallery-img" src="620012.jpg" style="border-style: none; max-width: 100%;"></a></div>
+			</div>
+		</div>
+		<p style="margin: 20px 0px; line-height: 1.88;">
+		<strong style="font-weight: 700;">«Артель художников»</strong>. В 1863 
+		году молодые живописцы под предводительством<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8239/ivan-kramskoy" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Ивана 
+		Крамского</a><span>&nbsp;</span>создали первое в истории русского искусства 
+		творческое объединение. Главной идеей провозгласили реализм и социальную 
+		направленность. Вместо театральности и мифологии. Вела общее хозяйство в 
+		доме на<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/institutes/12239/ansambl-strelki-vasilevskogo-ostrova" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Васильевском 
+		острове</a><span>&nbsp;</span>супруга Крамского Софья Прохорова. Артельщики 
+		принимали заказы, давали уроки рисования, по четвергам обсуждали 
+		проблемы современного искусства. Подорвал идею «коммуны» финансовый 
+		вопрос и возобновление некоторых артельщиков сотрудничества с Академией. 
+		Возмущенный Крамской покинул Артель, и сообщество пришло в упадок.<br>
+		<br><strong style="font-weight: 700;">Художники-передвижники</strong>. 
+		Через семь лет после образования Артели на смену пришло «Товарищество 
+		передвижных художественных выставок». Вдохновленные идеей народничества, 
+		объединились московские и петербургские живописцы и взялись за 
+		просветительскую работу и организацию выставок. Передвижники 
+		противопоставляли свое творчество академизму. Горячо приветствовал 
+		вольное содружество в русском искусстве знаменитый критик Владимир 
+		Стасов. «Очень замечательным для русского искусства явлением» назвал 
+		начинание передвижников<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8213/mihail-saltikov-shchedrin" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Михаил 
+		Салтыков-Щедрин</a>.<br><br><strong style="font-weight: 700;">Крамской и 
+		лучшие из лучших</strong>.<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8740/vasiliy-perov" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Василий 
+		Перов</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8246/aleksey-savrasov" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Алексей 
+		Саврасов</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8252/ivan-shishkin" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Иван 
+		Шишкин</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8244/ilya-repin" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Илья 
+		Репин</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8230/nikolay-ge" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Николай 
+		Ге</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/themes/250/hudozhnik-o-hudozhnike" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Василий 
+		Поленов</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/9346/viktor_vasnetsov" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Виктор</a><span>&nbsp;</span>и<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/materials/127705/mladshiy-vasnetsov" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Аполлинарий 
+		Васнецовы</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8248/vasiliy-surikov" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Василий 
+		Суриков</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8240/arhip-kuindzhi" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Архип 
+		Куинджи</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8242/isaak-levitan" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Исаак 
+		Левитан</a>, Владимир и<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/materials/120794/zhivopisets-aleksandra-ii-5-kartin-konstantina-makovskogo" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Константин 
+		Маковские</a>,<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8247/valentin-serov" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Валентин 
+		Серов</a>… Портретисты, представители бытового и классического жанра, 
+		мастера тихих пейзажей и историки от живописи, театральные художники и 
+		художники-монументалисты. Передвижники — цвет русского изобразительного 
+		искусства конца ХIХ века.</p>
+		<div class="content-gallery js-gallery" style="clear: both; margin: 30px 0px;">
+			<div class="content-gallery_inner" style="display: flex; justify-content: center; margin: 0px -85px;">
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.783629 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157435" href="620104.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 2" class="content-gallery_img js-gallery-img" src="620104.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.78996 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157435" href="620106.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 2" class="content-gallery_img js-gallery-img" src="620106.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.849783 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157435" href="620110.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 2" class="content-gallery_img js-gallery-img" src="620110.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.708592 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157435" href="620115.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 2" class="content-gallery_img js-gallery-img" src="620115.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.733262 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157435" href="620116.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 2" class="content-gallery_img js-gallery-img" src="620116.jpg" style="border-style: none; max-width: 100%;"></a></div>
+			</div>
+		</div>
+		<p style="margin: 20px 0px; line-height: 1.88;">
+		<strong style="font-weight: 700;">Устав — на благо народа</strong>. 
+		Организация передвижных художественных выставок во всех городах империи 
+		стала главной задачей сообщества. Устав сообщества был утвержден в 1870 
+		году. Передвижники отправились со своими работами и представлениями о 
+		живописи «в народ». Художники хотели познакомить жителей провинции с 
+		современным русским искусством, а заодно и продать свои картины. Таким 
+		образом картины покинули Петербург, стены Академии художеств и вышли за 
+		рамки галерей.<br><br><strong style="font-weight: 700;">Первая выставка</strong>.<span>&nbsp;</span><em style="font-style: italic;">«Выставка 
+		поразительна не по одному только прекрасному своему намерению — она тоже 
+		поразительна и по прекрасному осуществлению его… Это люди с таким же 
+		талантом, как и прежде, но только голова у них другая»</em>, — писал 
+		Владимир Стасов. В 1871 году выставка открылась в Петербурге и за два 
+		месяца побывала в Москве, Киеве и Харькове. Уже до начала работы 
+		экспозиции была куплена половина из 46 картин и рисунков. Вернисаж имел 
+		не только общественный резонанс, но и финансовый успех. Доселе 
+		живописцам неведомый.</p>
+		<div class="content-gallery js-gallery" style="clear: both; margin: 30px 0px;">
+			<div class="content-gallery_inner" style="display: flex; justify-content: center; margin: 0px -85px;">
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.736814 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157456" href="620184.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 3" class="content-gallery_img js-gallery-img" src="620184.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.776077 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157456" href="620355.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 3" class="content-gallery_img js-gallery-img" src="620355.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.750137 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157456" href="620356.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 3" class="content-gallery_img js-gallery-img" src="620356.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.72626 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157456" href="620357.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 3" class="content-gallery_img js-gallery-img" src="620357.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 0.842462 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157456" href="620358.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 3" class="content-gallery_img js-gallery-img" src="620358.jpg" style="border-style: none; max-width: 100%;"></a></div>
+			</div>
+		</div>
+		<p style="margin: 20px 0px; line-height: 1.88;">
+		<strong style="font-weight: 700;">Художественный кооператив</strong>. 
+		Демократическое решение насущных вопросов голосованием и общий бюджет — 
+		главные организаторские принципы передвижников. Уже после первой 
+		выставки четыре тысячи рублей поделили между участниками товарищества. 
+		Неслыханное дело. До этого доходы от выставок Академии художеств, 
+		которые в год едва достигали пяти тысяч рублей, шли в госказну. Сами же 
+		художники вознаграждения не получали. А по уставу передвижников лишь 5% 
+		от стоимости картины и деньги за билеты шли в общую кассу. Остальное — 
+		гонорары.<br><br><strong style="font-weight: 700;">Выставочные круизы</strong>. 
+		«Народные выставки» объехали немало городов. «Для развития любви к 
+		искусству в обществе». Ярославль, Тула, Саратов, Воронеж, Рига, Кишинев, 
+		Казань, Одесса, Киев… Всего за время существования сообщества 
+		передвижников художники организовали около полусотни выставок. Не 
+		проданные на основных вернисажах картины отправлялись далее — в поездку 
+		по стране. Лишь первая параллельная выставка побывала в 12 городах 
+		России. Так художники обретали известность в отдаленных уголках и 
+		финансовое благополучие.<br><br><strong style="font-weight: 700;">
+		Конфликт поколений</strong>. Члены товарищества — маститые, заслуженные 
+		отцы-основатели и начинающие художники — экспоненты. К примеру, в числе 
+		последних был и автор знаменитой картины «Апофеоз войны»<span>&nbsp;</span><a class="tooltipstered" href="https://www.culture.ru/persons/8228/vasiliy-vereshchagin" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;" target="_blank">Василий 
+		Верещагин</a>. Больше половины участников передвижных выставок 
+		приходилось именно на экспонентов. Но права голоса они не имели, и стать 
+		кандидатом в члены Товарищества было непросто. Также им разрешалось 
+		выставляться только с сообществом. Строгие правила лишали объединение 
+		«свежей крови», и к 1923 году Товарищество передвижников прекратило свое 
+		существование.</p>
+		<div class="content-gallery js-gallery" style="clear: both; margin: 30px 0px;">
+			<div class="content-gallery_inner" style="display: flex; justify-content: center; margin: 0px -85px;">
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 1.10225 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157510" href="620329.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 4" class="content-gallery_img js-gallery-img" src="620329.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 1.57176 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157510" href="620330.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 4" class="content-gallery_img js-gallery-img" src="620330.jpg" style="border-style: none; max-width: 100%;"></a></div>
+				<div class="content-gallery_item js-gallery-item" style="margin: 0px 5px; flex: 1.28424 1 0%;">
+					<a class="content-gallery_link js-gallery-link" data-fancybox="material_157510" href="620332.jpg" style="background-color: transparent; color: rgb(237, 35, 36); text-decoration: none;">
+					<img alt="Бунтари от живописи. Галерея 4" class="content-gallery_img js-gallery-img" src="620332.jpg" style="border-style: none; max-width: 100%;"></a></div>
+			</div>
+		</div>
+		<p style="margin: 20px 0px 0px; line-height: 1.88;">
+		<strong style="font-weight: 700;">Картины с выставки</strong>.<span>&nbsp;</span><em style="font-style: italic;">«Тесный 
+		кружок лучших художников и хороших людей, трудолюбие да полнейшая 
+		свобода и независимость — вот это благодать!»</em><span>&nbsp;</span>— писал 
+		Павел Третьяков Крамскому. Павел Михайлович поддерживал творческое 
+		объединение, и тому подтверждение — полотна художников-передвижников в 
+		коллекции знаменитого мецената. К примеру, открытие первой выставки — 
+		картину Алексея Саврасова «Грачи прилетели» — коллекционер купил здесь 
+		же. «Продано» значилось и на картине Николая Ге «Петр I допрашивает 
+		царевича Алексея Петровича в Петергофе», и на множестве других полотен, 
+		которые теперь составляют значительную часть коллекции Третьяковки.</p>
+	</div>
+</div>
+</body>
+</html>
